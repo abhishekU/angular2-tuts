@@ -1,1 +1,1 @@
-# angularJs-mapbox
+angular 2 tuts
